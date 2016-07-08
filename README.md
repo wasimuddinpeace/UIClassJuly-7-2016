@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 hii good morning
-=======
+
 # UIClassJuly-7-2016
 This git repo is created from demonstration of github. add some information. make chnages to 2nd line
 
