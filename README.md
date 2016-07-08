@@ -43,3 +43,6 @@ New Change to demonstrate
 
 
 staging the changes --> preparing to move to the repository
+
+
+made some changes to code
