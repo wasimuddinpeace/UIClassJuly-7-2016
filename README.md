@@ -1,5 +1,8 @@
 # UIClassJuly-7-2016
-This git repo is created from demonstration of github. add some information. make chnages to 2nd line.Push some code.
+
+This git repo is created from demonstration of github. pull some information. make chnages to 2nd line
+Push some code.
+
 
 hi
 
@@ -38,7 +41,7 @@ hello world
 
 some edit
 
-
+Hello GM
 New Change to demonstrate
 
 
