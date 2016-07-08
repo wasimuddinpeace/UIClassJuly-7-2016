@@ -1,3 +1,8 @@
+
+
+hii good morning
+
+
 # UIClassJuly-7-2016
 
 This git repo is created from demonstration of github. pull some information. make chnages to 2nd line
@@ -70,6 +75,16 @@ Hi This is Sowmini
 allows you to avoid merge conflicts 
 
 hii guys
+ HEAD
+
+hello all
+
+ HEAD
+
+sandeep here
+
+hi
+
 hii..this is teja
 
 hi this is srija
