@@ -59,7 +59,14 @@ hii good morning
 
 changes made to my file
 
+HEAD
+
+
+hii good morning everyone
+
 Hi This is Sowmini
 
 
 allows you to avoid merge conflicts 
+
+hii guys
