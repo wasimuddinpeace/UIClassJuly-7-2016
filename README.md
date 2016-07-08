@@ -1,5 +1,5 @@
 # UIClassJuly-7-2016
-This git repo is created from demonstration of github. add some information. make chnages to 2nd line
+This git repo is created from demonstration of github. add some information. make chnages to 2nd line.Push some code.
 
 hi
 
@@ -56,6 +56,14 @@ hii good morning
 
 changes made to my file
 
+HEAD
 
 
 hii good morning everyone
+
+Hi This is Sowmini
+
+
+allows you to avoid merge conflicts 
+
+hii guys
