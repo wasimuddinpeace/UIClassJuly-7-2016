@@ -75,17 +75,15 @@ Hi This is Sowmini
 allows you to avoid merge conflicts 
 
 hii guys
- HEAD
+
+
 
 hello all
 
- HEAD
-
-sandeep here
-
-hi
-
-hii..this is teja
 
 hi this is srija
 I want to have hands on git
+
+HI EVERYONE
+hello 
+
