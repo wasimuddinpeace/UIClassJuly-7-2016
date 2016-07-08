@@ -1,12 +1,20 @@
+
+
+hii good morning
+
+
 # UIClassJuly-7-2016
-This git repo is created from demonstration of github
 
-<<<<<<< HEAD
+
 hi every this is bharadwaj
-=======
+
+This git repo is created from demonstration of github. pull some information. make chnages to 2nd line
+Push some code.
 
 
+hi
 
+Hi this sandeep
 Hi everyone this is anu
 
 hi this is abhilash
@@ -25,14 +33,63 @@ Hi Everyone this is Sandeep!
 
 Hi everyone this is Abhilash
 
+
+hi everyone i am sarika
+
 hii this is sai
 
 hello world
 
-
+Hello
 Hi this is arun
 
 Hello 
 hi this is vamshi
 hello world
->>>>>>> origin/master
+
+
+
+
+some edit
+
+Hello GM
+New Change to demonstrate
+
+
+staging the changes --> preparing to move to the repository
+
+
+Good Morning    made some changes to code
+made some changes to code
+
+
+hii good morning
+
+
+hii good morning
+
+changes made to my file
+
+HEAD
+
+
+hii good morning everyone
+
+Hi This is Sowmini
+
+
+allows you to avoid merge conflicts 
+
+hii guys
+
+
+
+hello all
+
+
+hi this is srija
+I want to have hands on git
+
+HI EVERYONE
+hello 
+Updating a lot
