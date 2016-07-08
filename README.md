@@ -70,7 +70,11 @@ Hi This is Sowmini
 allows you to avoid merge conflicts 
 
 hii guys
+<<<<<<< HEAD
 
 sandeep here
 
 hi
+=======
+hii..this is teja
+>>>>>>> b4924eb3fb532f89360959d8605be6033f46bd64
