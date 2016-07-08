@@ -1,8 +1,13 @@
 
+
 hii good morning
 
+
 # UIClassJuly-7-2016
-This git repo is created from demonstration of github. add some information. make chnages to 2nd line
+
+This git repo is created from demonstration of github. pull some information. make chnages to 2nd line
+Push some code.
+
 
 hi
 
@@ -41,13 +46,14 @@ hello world
 
 some edit
 
-
+Hello GM
 New Change to demonstrate
 
 
 staging the changes --> preparing to move to the repository
 
 
+Good Morning    made some changes to code
 made some changes to code
 
 
@@ -58,3 +64,16 @@ hii good morning
 
 changes made to my file
 
+HEAD
+
+
+hii good morning everyone
+
+Hi This is Sowmini
+
+
+allows you to avoid merge conflicts 
+
+hii guys
+
+hello all
