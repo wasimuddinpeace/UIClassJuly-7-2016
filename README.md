@@ -57,3 +57,6 @@ hii good morning
 changes made to my file
 
 Hi This is Sowmini
+
+
+allows you to avoid merge conflicts 
