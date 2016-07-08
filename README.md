@@ -1,5 +1,5 @@
 # UIClassJuly-7-2016
-This git repo is created from demonstration of github
+This git repo is created from demonstration of github. add some information. make chnages to 2nd line
 Hi , Good Morning
 
 hi
@@ -30,10 +30,20 @@ hii this is sai
 
 hello world
 
-
+Hello
 Hi this is arun
 
 Hello 
 hi this is vamshi
 hello world
 
+some edit
+
+
+New Change to demonstrate
+
+
+staging the changes --> preparing to move to the repository
+
+
+made some changes to code
