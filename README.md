@@ -37,3 +37,9 @@ hi this is vamshi
 hello world
 
 some edit
+
+
+New Change to demonstrate
+
+
+staging the changes --> preparing to move to the repository
