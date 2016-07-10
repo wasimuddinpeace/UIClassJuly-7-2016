@@ -99,7 +99,7 @@ HI R2 tech this is xxxxxxxxx
 
 
 
-For understanding purpose.
+For understanding purpose. some simple example.
 
 fetch
 pull
