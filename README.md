@@ -102,7 +102,11 @@ HI R2 tech this is xxxxxxxxx
 
 
 HEAD
+
 For understanding purpose.
+
+For understanding merge conflict purpose. creating conflicts some simple example.Agin doing the same.adding
+
 
 
 fetch
