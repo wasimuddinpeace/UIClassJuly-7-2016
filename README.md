@@ -98,3 +98,9 @@ Updating a lot
 
 
 HI R2 tech this is xxxxxxxxx
+fetch
+pull
+push 
+commit 
+difference between commit nad push 
+how to craete merge conflict
