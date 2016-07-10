@@ -62,7 +62,7 @@ staging the changes --> preparing to move to the repository
 
 
 Good Morning    made some changes to code
-made some changes to code
+made some changes hazbnmjxnmz
 
 
 hii good morning
@@ -70,12 +70,8 @@ hii good morning
 
 hii good morning
 
-changes made to my file
-
-HEAD
-
-
-hii good morning everyone
+changes
+hii good ming everyone
 
 Hi This is Sowmini
 
