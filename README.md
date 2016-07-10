@@ -102,7 +102,7 @@ HI R2 tech this is xxxxxxxxx
 
 
 HEAD
-For understanding purpose. creating conflicts some simple example.Agin doing the same.
+For understanding purpose. creating conflicts some simple example.Agin doing the same.adding some more.
 
 
 fetch
