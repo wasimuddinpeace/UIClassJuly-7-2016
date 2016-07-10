@@ -62,20 +62,14 @@ staging the changes --> preparing to move to the repository
 
 
 Good Morning    made some changes to code
-made some changes to code
-
-
+made some changes
 hii good morning
 
 
 hii good morning
 
-changes made to my file
-
-HEAD
-
-
-hii good morning everyone
+changes
+hii good ming everyone
 
 Hi This is Sowmini
 
@@ -90,6 +84,10 @@ hello all
 
 
 hi this is srija
+
+
+Good Afternoon
+
 I want to have hands on git
 
 HI EVERYONE
@@ -100,4 +98,16 @@ Updating a lot
 HI R2 tech this is xxxxxxxxx
 
 
-For understanding purpose
+
+For understanding purpose.
+
+fetch
+pull
+push 
+commit 
+difference between commit nad push 
+how to craete merge conflict
+how to resolve merge conflict
+commit message why they are important
+why it is good idea to push before pull
+why  it is good idea to commit before you pull
