@@ -5,6 +5,9 @@ hii good morning
 
 # UIClassJuly-7-2016
 
+
+hi every this is bharadwaj
+
 This git repo is created from demonstration of github. pull some information. make chnages to 2nd line
 Push some code.
 
@@ -33,6 +36,8 @@ Hi everyone this is Abhilash
 
 hi everyone i am sarika
 
+Some sample text by sarika. editing this line.
+
 hii this is sai
 
 hello world
@@ -44,6 +49,9 @@ Hello
 hi this is vamshi
 hello world
 
+
+
+
 some edit
 
 Hello GM
@@ -54,20 +62,14 @@ staging the changes --> preparing to move to the repository
 
 
 Good Morning    made some changes to code
-made some changes to code
-
-
+made some changes
 hii good morning
 
 
 hii good morning
 
-changes made to my file
-
-HEAD
-
-
-hii good morning everyone
+changes
+hii good ming everyone
 
 Hi This is Sowmini
 
@@ -75,18 +77,33 @@ Hi This is Sowmini
 allows you to avoid merge conflicts 
 
 hii guys
- HEAD
+
+
 
 hello all
 
- HEAD
-
-sandeep here
-
-hi
-
-hii..this is teja
 
 hi this is srija
+<<<<<<< HEAD
 
 Good Afternoon
+=======
+I want to have hands on git
+
+HI EVERYONE
+hello 
+Updating a lot
+
+
+HI R2 tech this is xxxxxxxxx
+fetch
+pull
+push 
+commit 
+difference between commit nad push 
+how to craete merge conflict
+how to resolve merge conflict
+commit message why they are important
+why it is good idea to push before pull
+why  it is good idea to commit before you pull
+>>>>>>> 1ef40db18aee6c55e8f2294f1d637bcc3bdd7254
