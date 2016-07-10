@@ -84,7 +84,11 @@ hello all
 
 
 hi this is srija
+<<<<<<< HEAD
  HEAD
+=======
+
+>>>>>>> e74aaa9f9295c578ed1ee08996a51ddf154684b2
 
 Good Afternoon
 
@@ -95,3 +99,22 @@ hello
 Updating a lot
 
 
+<<<<<<< HEAD
+=======
+HI R2 tech this is xxxxxxxxx
+
+
+
+For understanding purpose. some simple example.
+
+fetch
+pull
+push 
+commit 
+difference between commit nad push 
+how to craete merge conflict
+how to resolve merge conflict
+commit message why they are important
+why it is good idea to push before pull
+why  it is good idea to commit before you pull
+>>>>>>> e74aaa9f9295c578ed1ee08996a51ddf154684b2
