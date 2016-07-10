@@ -84,11 +84,9 @@ hello all
 
 
 hi this is srija
-<<<<<<< HEAD
  HEAD
-=======
-
->>>>>>> e74aaa9f9295c578ed1ee08996a51ddf154684b2
+ HEAD
+ e74aaa9f9295c578ed1ee08996a51ddf154684b2
 
 Good Afternoon
 
@@ -98,9 +96,8 @@ HI EVERYONE
 hello 
 Updating a lot
 
+ HEAD
 
-<<<<<<< HEAD
-=======
 HI R2 tech this is xxxxxxxxx
 
 
@@ -117,4 +114,3 @@ how to resolve merge conflict
 commit message why they are important
 why it is good idea to push before pull
 why  it is good idea to commit before you pull
->>>>>>> e74aaa9f9295c578ed1ee08996a51ddf154684b2
