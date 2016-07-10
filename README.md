@@ -99,7 +99,9 @@ HI R2 tech this is xxxxxxxxx
 
 
 
-For understanding purpose. creating conflicts
+HEAD
+For understanding purpose. creating conflicts some simple example.
+
 
 fetch
 pull
