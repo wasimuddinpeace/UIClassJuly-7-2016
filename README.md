@@ -61,8 +61,8 @@ New Change to demonstrate
 staging the changes --> preparing to move to the repository
 
 
-Good Morning    made some changes to code
-made some changes
+Good Morning    
+
 hii good morning
 
 
