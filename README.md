@@ -40,7 +40,6 @@ Some sample text by sarika. editing this line.
 
 hii this is sai
 
-hello world
 
 Hello
 Hi this is arun
