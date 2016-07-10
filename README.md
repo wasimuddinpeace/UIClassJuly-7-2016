@@ -40,7 +40,6 @@ Some sample text by sarika. editing this line.
 
 hii this is sai
 
-hello world
 
 Hello
 Hi this is arun
@@ -61,8 +60,8 @@ New Change to demonstrate
 staging the changes --> preparing to move to the repository
 
 
-Good Morning    made some changes to code
-made some changes
+Good Morning    
+
 hii good morning
 
 
@@ -84,7 +83,9 @@ hello all
 
 
 hi this is srija
-
+ HEAD
+ HEAD
+ e74aaa9f9295c578ed1ee08996a51ddf154684b2
 
 Good Afternoon
 
@@ -94,6 +95,7 @@ HI EVERYONE
 hello 
 Updating a lot
 
+ HEAD
 
 HI R2 tech this is xxxxxxxxx
 
