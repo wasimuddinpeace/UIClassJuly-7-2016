@@ -42,4 +42,3 @@ some edit
 New Change to demonstrate
 
 
-staging the changes --> preparing to move to the repository
