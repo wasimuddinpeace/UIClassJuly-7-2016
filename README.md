@@ -78,15 +78,27 @@ allows you to avoid merge conflicts
 
 hii guys
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> e31835ad93a54ce460bef59571a44139c42da045
 
+ 
+
+<<<<<<< HEAD
 hello all
 
+ 
+sandeep here
+
+hi
+
+hii..this is teja
+
+
+=======
 
 hi this is srija
- HEAD
- HEAD
- e74aaa9f9295c578ed1ee08996a51ddf154684b2
 
 Good Afternoon
 
@@ -104,9 +116,15 @@ Hi Good Evening
 HI R2 tech this is xxxxxxxxx
 
 
+>>>>>>> e31835ad93a54ce460bef59571a44139c42da045
 
 HEAD
 
+<<<<<<< HEAD
+hi this is srija
+I want to have hands on git
+
+=======
 For understanding purpose.
 
 For understanding merge conflict purpose. creating conflicts some simple example.Agin doing the same.adding
@@ -133,6 +151,7 @@ Good evening .Hope you all had fun and enjoyed your weekend.
 Good Morning 
 
 Hi every one
+<<<<<<< HEAD
 
 
 Homework 2:
@@ -144,3 +163,6 @@ Homework 2:
  look into all possible tags.
 
 
+=======
+>>>>>>> e31835ad93a54ce460bef59571a44139c42da045
+>>>>>>> 88f1c9c399b35fe3d0f28dd5ee12f34042dedf98
