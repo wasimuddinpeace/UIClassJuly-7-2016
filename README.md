@@ -133,3 +133,14 @@ Good evening .Hope you all had fun and enjoyed your weekend.
 Good Morning 
 
 Hi every one
+
+
+Homework 2:
+
+ look into all the input attributes in html. when to use describe by example.
+
+ what are sematic elements why they are helpful ? // w3  schools. HTML tag references and mozilla developer network, html5 doctor
+
+ look into all possible tags.
+
+
