@@ -78,14 +78,7 @@ allows you to avoid merge conflicts
 
 hii guys
 
-<<<<<<< HEAD
-=======
-
->>>>>>> e31835ad93a54ce460bef59571a44139c42da045
-
- 
-
-<<<<<<< HEAD
+HEAD
 hello all
 
  
@@ -113,18 +106,8 @@ Hi Good Evening
 
  HEAD
 
-HI R2 tech this is xxxxxxxxx
-
-
->>>>>>> e31835ad93a54ce460bef59571a44139c42da045
-
-HEAD
-
-<<<<<<< HEAD
-hi this is srija
+HI R2 tech this is xxxxxxxxx.hi this is srija
 I want to have hands on git
-
-=======
 For understanding purpose.
 
 For understanding merge conflict purpose. creating conflicts some simple example.Agin doing the same.adding
